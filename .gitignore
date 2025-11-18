@@ -1,0 +1,42 @@
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Build
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs and temporary files
+logs/
+*.log
+tmp/
+temp/
+
+# Environment variables
+.env
+*.env
+
+# Data
+data/
